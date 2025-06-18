@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#box {
+  width: 200px;
+  height: 200px;
+  margin: 30px auto;
+  background-color: gray;
+  display: none;
+  cursor: pointer;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+}
